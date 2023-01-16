@@ -139,7 +139,7 @@ PUNCH_TEMPLATES = (
     "Thanks to {user1}'s airstrike, {user2} is no more.",
     "{user1} waterboard's {user2}.",
     "{user1} hangs {user2} upside down.",
-    "{user1} breaks (user2's) skull with a PS4.",
+    "{user1} breaks {user2}'s skull with a PS4.",
     "{user1} throws Xbox controller batteries at {user2}'s face.",
     "{user1} shouts 'Look at me, I'm the Captain now.' at {user2}.",
     "{user1} puts {user2} in their place.",
